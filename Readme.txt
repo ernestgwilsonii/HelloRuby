@@ -37,6 +37,9 @@ update_rubygems
 gem install bundler
 rvm all-gemsets do gem update bundler
 
+# Install rake
+gem install rake
+
 
 ############################
 # Manually installing gems #
@@ -56,6 +59,7 @@ gem install minitest
 # Create a Gemfile for the bundle install
 echo "source 'https://rubygems.org'" > Gemfile
 echo "gem 'minitest', '~> 5.11.3'" >> Gemfile
+echo "gem 'rake', '~> 12.3.1'" >> Gemfile
 echo "gem 'rubocop', '~> 0.59.1'" >> Gemfile
 
 # Install the bundle based on the Gemfile 
