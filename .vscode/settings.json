@@ -1,0 +1,5 @@
+{
+    // If not specified searches for 'rubocop' executable available on PATH (default and recommended)
+    "ruby.rubocop.executePath": "/Users/ernii/.rvm/gems/ruby-2.5.0/bin/",
+    "ruby.rubocop.onSave": true
+}
