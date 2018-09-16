@@ -1,5 +1,5 @@
 ## HelloRuby
-Ruby 101  
+[Ruby](https://www.ruby-lang.org/) 101  
 Note: [Mac quick setup](https://github.com/ernestgwilsonii/HelloRuby/blob/master/Readme.txt)
 
 ### Learn basic Ruby (quickly)
